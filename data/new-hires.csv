@@ -1,0 +1,4 @@
+EmployeeId,FirstName,LastName,Department,Role,Title,Manager,TicketId
+E1010,Siti,Rahma,FIN,RG-FIN-Staff,Accounts Payable Officer,dpratama,HR-1001
+E1011,Rizky,Ramadhan,SLS,RG-SLS-Staff,Sales Executive,ypermana,HR-1002
+E1012,Joko,Susilo,HR,RG-FIN-Staff,Recruiter,lnugroho,HR-1003

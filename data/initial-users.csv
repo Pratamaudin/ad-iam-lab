@@ -1,0 +1,10 @@
+EmployeeId,FirstName,LastName,Department,Role,Title,Manager,TicketId
+E1001,Andi,Saputra,IT,RG-IT-SysAdmin,IT Manager / SysAdmin,,SEED
+E1002,Dewi,Pratama,FIN,RG-FIN-Manager,Finance Manager,,SEED
+E1003,Lestari,Nugroho,HR,RG-HR-Manager,HR Manager,,SEED
+E1004,Yoga,Permana,SLS,RG-SLS-Manager,Sales Manager,,SEED
+E1005,Rina,Kusuma,IT,RG-IT-Helpdesk,Helpdesk Technician,asaputra,SEED
+E1006,Budi,Wijaya,FIN,RG-FIN-Staff,Accountant,dpratama,SEED
+E1007,Fajar,Hidayat,HR,RG-HR-Staff,Payroll Officer,lnugroho,SEED
+E1008,Sari,Putri,SLS,RG-SLS-Staff,Account Executive,ypermana,SEED
+E1009,Agus,Setiawan,SLS,RG-SLS-Staff,Sales Executive,ypermana,SEED

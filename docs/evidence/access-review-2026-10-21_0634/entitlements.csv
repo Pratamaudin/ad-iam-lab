@@ -1,0 +1,12 @@
+﻿"User","Name","Enabled","OUDepartment","Title","Roles","DirectGroups","EffectiveDL","LastLogon"
+"asaputra","Andi Saputra","True","IT","IT Manager / SysAdmin","RG-IT-SysAdmin","","DL-Share-Public-RO; DL-Share-IT-RW",
+"dpratama","Dewi Pratama","True","FIN","Finance Manager","RG-FIN-Manager","","DL-Share-Public-RO; DL-Share-Finance-RW",
+"lnugroho","Lestari Nugroho","True","HR","HR Manager","RG-HR-Manager","","DL-Share-HR-RW; DL-Share-Public-RO; DL-App-Payroll-User",
+"ypermana","Yoga Permana","True","SLS","Sales Manager","RG-SLS-Manager","","DL-Share-Public-RO; DL-App-CRM-User; DL-Share-Sales-RW",
+"rkusuma","Rina Kusuma","True","IT","Helpdesk Technician","RG-IT-Helpdesk","","DL-Share-Public-RO; DL-Share-IT-RW","10/21/2026 4:45:56 AM"
+"bwijaya","Budi Wijaya","False",,"Accountant","","","",
+"fhidayat","Fajar Hidayat","True","HR","Payroll Officer","RG-HR-Staff","","DL-Share-HR-RW; DL-Share-Public-RO; DL-App-Payroll-User",
+"sputri","Sari Putri","True","FIN","Finance Analyst","RG-FIN-Staff","","DL-Share-Finance-RO; DL-Share-Public-RO","10/21/2026 3:39:19 AM"
+"asetiawan","Agus Setiawan","True","SLS","Sales Executive","RG-SLS-Staff","","DL-Share-Public-RO; DL-App-CRM-User; DL-Share-Sales-RW",
+"srahma","Siti Rahma","True","FIN","Accounts Payable Officer","RG-FIN-Staff","","DL-Share-Finance-RO; DL-Share-Public-RO","10/21/2026 3:26:02 AM"
+"rramadhan","Rizky Ramadhan","True","SLS","Sales Executive","RG-SLS-Staff","","DL-Share-Public-RO; DL-App-CRM-User; DL-Share-Sales-RW","10/21/2026 4:15:31 AM"
