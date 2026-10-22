@@ -37,7 +37,7 @@ foreach ($role in $c.Roles.Keys) {
 }
 
 # 3. File shares + NTFS permissions driven by DL groups only (never by user)
-$shares = $c.Resources.Values | Where-Object Share | Select-Object -ExpandProperty Share -Unique
+$shares = $c.Resources.Values | ForEach-Object { $_.Share } | Where-Object { $_ } | Sort-Object -Unique
 foreach ($share in $shares) {
     $path = Join-Path $c.ShareRoot $share
     if (-not (Test-Path $path)) { New-Item -ItemType Directory -Path $path -Force | Out-Null }
